@@ -18,7 +18,7 @@ let package = Package(
         .binaryTarget(
             name: "WebRTC",
             url: "https://document123.us-east-1.linodeobjects.com/WebRTC.xcframework.zip",
-            checksum: "b427d69e6b08dd865b1b3895b24e0a3f74d191124b22ce0468d4360f374c3f13"
+            checksum: "bd1a7a638c0ffefa00c39d34221b3c9506d97b6b4752f755e4f67afe844a9923"
         ),
     ]
 )
